@@ -1,0 +1,22 @@
+.but{
+    background-color: transparent;
+    border: none;
+}
+.image{
+    height: 15vh;
+}
+.emojisCard {
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black;
+    padding: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+  }
+  .p{
+    height: 15vh;
+    color: #ffffff;
+    width: 15vh;
+
+  }
